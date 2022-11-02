@@ -66,3 +66,18 @@ sr.reveal( ".about-img", {} );
 sr.reveal( ".about-subtitle", { delay: 200 } );
 sr.reveal( ".about-text", { delay: 200 } );
 
+// Scross main skills mainskills
+sr.reveal( ".mainskills", { interval: 100 } );
+sr.reveal( ".mskill-img", { delay: 200 } );
+sr.reveal( ".mskill-text", { delay: 200 } );
+/*SCROLL SKILLS*/
+sr.reveal( ".skills-subtitle", {} );
+sr.reveal( ".skills-text", {} );
+sr.reveal( ".skills-data", { interval: 100 } );
+// sr.reveal(".skills-img", { delay: 600 });
+
+/*SCROLL projects*/
+sr.reveal( ".project-img", { interval: 200 } );
+
+// SCROLL CONTACT
+sr.reveal(".contact-input", { interval: 200 });
