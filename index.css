@@ -815,6 +815,8 @@ width: 120px;
     #links >a> div:last-child{
 
         width: 95px;
+        
+        }
 
 }
 
@@ -953,18 +955,18 @@ width: 120px;
 
     #contact > #heading{
 
-        font-size: 30px;
+        font-size: 20px;
         font-weight: 600;
     }
 
    
     #det > #email{
-        font-size: 18px;
+        font-size: 12px;
     }
 
 
    #det > #phone{
-    font-size: 18px;
+    font-size: 16px;
    }
     #det > #email > a >img{
 
