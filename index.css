@@ -265,7 +265,7 @@ html {
 
 /* **************************for mobile ************************************* */
 
-@media all and (min-width : 320px ) and (max-width : 767px){
+@media all and (min-width : 280px ) and (max-width : 767px){
 
     #name > div > p:last-child{
    
@@ -537,7 +537,7 @@ html {
 
 /* ************************for mobile************************** */
 
-@media all and (min-width : 320px ) and (max-width : 767px){
+@media all and (min-width : 280px ) and (max-width : 767px){
 
     #frontEnd > div > div > p{
 
@@ -758,7 +758,7 @@ width: 120px;
 
 /* ****************mobile************************** */
 
-@media all and (min-width : 320px ) and (max-width : 767px){
+@media all and (min-width : 280px ) and (max-width : 767px){
 
     #title{
         font-size: 26px;
@@ -811,6 +811,10 @@ width: 120px;
         margin-left: 0%;
 
     }
+
+    #links >a> div:last-child{
+
+        width: 95px;
 
 }
 
@@ -923,7 +927,7 @@ width: 120px;
 
 /* **********************mobile*********************** */
 
-@media all and (min-width : 320px ) and (max-width : 767px){
+@media all and (min-width : 280px ) and (max-width : 767px){
 
     #contact{
         padding-top: 20px;
@@ -1031,7 +1035,7 @@ width: 120px;
 
 
 
-@media all and (min-width : 320px ) and (max-width : 767px){
+@media all and (min-width : 280px ) and (max-width : 767px){
 
     #backend > div >.stat{
 
@@ -1062,7 +1066,7 @@ width: 120px;
     
 }
 
-@media all and (min-width : 320px ) and (max-width : 767px){
+@media all and (min-width : 280px ) and (max-width : 767px){
     #frontEnd .softSkill{
         font-size: 26px;
     }
